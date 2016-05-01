@@ -1,0 +1,6 @@
+[submodule "i3"]
+	path = i3
+	url = https://github.com/Grillon/i3.git
+[submodule "vim_install"]
+	path = vim_install
+	url = https://github.com/apprensemble/vim_install.git
