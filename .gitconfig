@@ -3,3 +3,5 @@
 # Veuillez adapter et décommenter les lignes suivantes :
 	name = Thierry
 	email = thierry@apprensemble.link
+[push]
+	default = simple
